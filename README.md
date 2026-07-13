@@ -327,18 +327,30 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Pragati Pandey**
+## Pragati Pandey
 
-GitHub: https://github.com/your-github-username
+Full Stack MERN Developer passionate about building scalable, real-time web applications and creating modern user experiences.
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+<p align="left">
+<a href="https://github.com/pragatipandey25">
+<img src="https://img.shields.io/badge/GitHub-pragatipandey25-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/pragatipandey25/BlinkTalk">
+<img src="https://img.shields.io/badge/Project-BlinkTalk-blue?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/pragati-pandey-25f2006/">
+<img src="https://img.shields.io/badge/LinkedIn-Pragati%20Pandey-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
 ---
 
 <p align="center">
 
-⭐ If you like this project, don't forget to star the repository!
+### ⭐ If you like BlinkTalk, don't forget to star the repository!
 
-Made with ❤️ using React, Node.js and MongoDB.
+Made with ❤️ by **Pragati Pandey**
 
 </p>
